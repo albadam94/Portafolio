@@ -137,6 +137,7 @@ function Presentacion( ){
                                     </tr>
                                     <tr>
                                         <th scope="row">Periodista Digital / ANC Noticias</th>
+                                        <th scope="row">Web y Multimedia Developer / We Are Angular</th>
                                      </tr>   
                                      </tbody>
                         </table>

@@ -49,7 +49,7 @@ function Portafolio(){
          
          <div className="row row-cols-1 row-cols-md-3 g-0">
             <div className="item logos col-lg-3 col-md-4 col-6 col-sm">
-               <a href="https://www.behance.net/gallery/117120021/LOGO-ABOGADA-LAURA-HOLGUIN"  target="_blank" rel="noopener noreferrer"> <img className="img-fluid"  src={Labogada}alt="Logoabogada" ></img></a>
+               <a href="https://www.behance.net/gallery/126198439/DISENO-MARCA-LALA-GUTY"  target="_blank" rel="noopener noreferrer"> <img className="img-fluid"  src={Labogada}alt="Logoabogada" ></img></a>
             </div>
             
             <div className="item logos col-lg-3 col-md-4 col-6 col-sm">
