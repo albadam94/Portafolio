@@ -34,7 +34,7 @@ function Portafolio(){
        
             <div className="portfolio-menu mt-2 mb-4">
             <Menu/>
-           
+           <br></br>
             <ul>
             <h1 className="text-center portafolio" id="Portafolio">PORTAFOLIO</h1>
              <div className="d-flex justify-content-center">

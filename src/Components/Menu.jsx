@@ -1,6 +1,7 @@
 import React from 'react';
 import {NavLink} from 'react-router-dom';
-import Logo from '../Icons/Logo.png';
+import Logo from '../Images/Logo.png';
+
 
 
 
@@ -13,7 +14,7 @@ export default function Menu( ){
         
         <nav  className="navbar navbar-dark fixed-top">
         <div className="container-fluid">
-        <NavLink className="navbar-brand" activeClass="active" to='/' ><img src={Logo} alt="" width="75" height="35" ></img> </NavLink>
+        <NavLink className="navbar-brand" activeClass="active" to='/' ><img  src={Logo}alt="Logo" width="125" height="55" ></img> </NavLink>
           <button className="navbar-toggler" type="button" data-bs-toggle="offcanvas" data-bs-target="#offcanvasNavbar" aria-controls="offcanvasNavbar">
             <span className="navbar-toggler-icon"></span>
           </button>
@@ -53,5 +54,3 @@ export default function Menu( ){
 </div>
     )
 }
-
-
